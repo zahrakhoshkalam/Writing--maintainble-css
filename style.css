@@ -1,0 +1,9 @@
+:root {
+  --primary-color: rgb(135, 170, 170);
+}
+.one {
+  background-color: var(--primary-color);
+}
+.two {
+  background-color: var(--primary-color);
+}
